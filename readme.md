@@ -2,6 +2,7 @@
 
 Here's a simple weather application built with Python (Django). You're welcome to customize it according to your needs.
 
+This is a clone of https://github.com/ianshulx/Django-Projects-for-beginners/tree/main-616/Weather-Application-Django
 
 ## Pre-Requisites:
 
